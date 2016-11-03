@@ -1,7 +1,6 @@
-# twitchecho
-Python Twitch Echo
+# twitch echo python ver?
 
-Python to interface with Twitch
+Python interface with Twitch api?
 Download audio stream
 Upload to a recognition system
 Kick back results
